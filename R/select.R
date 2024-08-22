@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' options(max.print = 10)
+#' options(max.print = 11)
 #' zelect(iris, c("Sepal.Length", "Sepal.Width"))
 #' zelect(iris, c(1,2))
 #' zelect(iris, c(FALSE,TRUE,FALSE,TRUE,FALSE))
